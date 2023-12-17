@@ -8,8 +8,11 @@
 *To apply the trained model, the best.pt file was utilized in object detection scripts written in a PyCharm IDE. These scripts enable live monitoring and control of personal equipment on construction sites.*
 
 
-![Ekran Görüntüsü (292)](https://github.com/MerveKayali/PPE-Detector/assets/98707588/44e98c6d-638e-4365-a423-fd4f8666771e)
-![Ekran Görüntüsü (295)](https://github.com/MerveKayali/PPE-Detector/assets/98707588/a0346826-016c-4f62-95d8-2095f13eb3bd)
+
+![Ekran Görüntüsü (295)](https://github.com/MerveKayali/PPE-Detector/assets/98707588/318747e0-0834-427c-9b4c-30399714d0b3)
+![Ekran Görüntüsü (290)](https://github.com/MerveKayali/PPE-Detector/assets/98707588/d24438a7-de9d-447a-9457-3bdd98f17761)
+
+
 
 
 
